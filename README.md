@@ -1,12 +1,12 @@
 # A* vs Dijkstra Algorithm Visualization
 
-This project is a Python-based visualization tool that compares the A* and Dijkstra pathfinding algorithms using Pygame.
+This project is a Python-based visualization tool that compares the A* and Dijkstra pathfinding algorithms using Pygame module.
 
 ## Features
 
 - Interactive grid-based environment
 - Visualization of A* and Dijkstra algorithms
-- Real-time comparison of algorithm performance
+- Real-time comparison of algorithm performance by calculating time
 - User-friendly interface for creating start points, end points, and obstacles
 
 ## Requirements
@@ -18,7 +18,7 @@ This project is a Python-based visualization tool that compares the A* and Dijks
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/astar-dijkstra-visualization.git
+   git clone https://github.com/gauravwani99/astar-dijkstra-visualization.git
    ```
 2. Install the required dependencies:
    ```
@@ -44,8 +44,6 @@ The program creates a grid where users can set start and end points, as well as 
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
