@@ -18,7 +18,7 @@ This project is a Python-based visualization tool that compares the A* and Dijks
 
 1. Clone this repository:
    ```
-   git clone https://github.com/gauravwani99/astar-dijkstra-visualization.git
+   git clone https://github.com/gauravwani99/A-v-s-Dijkstra-Algorithm.git
    ```
 2. Install the required dependencies:
    ```
