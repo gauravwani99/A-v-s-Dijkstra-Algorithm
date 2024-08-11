@@ -29,7 +29,7 @@ This project is a Python-based visualization tool that compares the A* and Dijks
 
 Run the script:
 ```
-python pathfinding_visualizer.py
+python PathFinding_Visualiser.py
 ```
 
 ### Controls:
